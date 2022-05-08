@@ -1,2 +1,2 @@
 # Simply-Note
-Smart Text Editor built using python.
+Smart Text Editor built using Python.
